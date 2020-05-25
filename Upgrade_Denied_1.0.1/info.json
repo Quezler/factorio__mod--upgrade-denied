@@ -1,9 +1,9 @@
 {
   "name": "Upgrade_Denied",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "factorio_version": "0.18",
   "title": "Upgrade Denied",
   "author": "Quezler",
   "dependencies": ["base"],
-  "description": "Denies your upgrade visa if you haven't unlocked the required technology for it yet."
+  "description": "Upgrade plannering will not work for yet-to-research technology."
 }
